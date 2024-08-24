@@ -1,0 +1,1 @@
+package com.andrew.monitor.domain.model.entity;
